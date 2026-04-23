@@ -1,14 +1,14 @@
 # 🧪 Exercise Menu Program
 
 ## 📌 Description
-This program simulates a set of programming exercises through an interactive menu system. The user can choose different exercises, similar to a test environment.
+This project simulates a set of programming exercises through an interactive menu system. The user can choose different exercises, similar to a test environment.
 
 ## ⚙️ Features
 - Menu-based navigation
 - Multiple exercises in one program
 - Input validation (basic)
-- Use of functions for each exercise
-- Continuous execution until user exits
+- Organized using functions
+- Continuous execution until exit
 
 ## 🚀 How to run
 1. Open the terminal
@@ -20,11 +20,17 @@ This program simulates a set of programming exercises through an interactive men
 Python
 
 ## 📚 What I learned
-- Functions (def and return)
+- Functions (def, return)
 - Conditional statements (if, elif, else)
 - Loops (while)
 - Code organization
 - User interaction
+
+## 💡 Example
+===== MENU =====
+1 - Exercise 1
+2 - Exercise 2
+...
 
 ## 👨‍💻 Author
 Mateus Manke Lemes
